@@ -67,19 +67,23 @@ http://localhost:5173
 ## Screenshots of the UI
 
 ### Home Page
-(Add screenshot here)
+![alt text](image.png)
 
 ### Best Sellers Page
-(Add screenshot here)
+![alt text](image-1.png)
 
 ### Occasions Page
-(Add screenshot here)
+![alt text](image-2.png)
 
 ### Custom Bouquet Page
-(Add screenshot here)
+![alt text](image-3.png)
 
 ### Flower Categories Page
-(Add screenshot here)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
 
 ---
 
